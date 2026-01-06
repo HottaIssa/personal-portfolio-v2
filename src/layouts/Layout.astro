@@ -1,0 +1,28 @@
+---
+import Logo from '../assets/logo_empresa.png'
+---
+
+<!doctype html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8' />
+    <meta name='viewport' content='width=device-width' />
+    <link rel='icon' type='image/svg+xml' href={Logo.src} />
+    <meta name='generator' content={Astro.generator} />
+    <title>Issa Ostos Hotta</title>
+  </head>
+  <body
+    class='bg-linear-to-b from-[#8ea4d2] to-[#6279b8] text-white font-semibold min-h-screen bg-fixed'
+  >
+    <slot />
+  </body>
+</html>
+
+<style>
+  html,
+  body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+  }
+</style>

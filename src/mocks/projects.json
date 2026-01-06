@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "title": "E-Commerce Platform",
+      "description": "A full-featured online shopping platform with cart, checkout, and payment integration.",
+      "image": "https://images.unsplash.com/photo-1603985585179-3d71c35a537c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3ZWIlMjBkZXNpZ24lMjB3b3Jrc3BhY2V8ZW58MXx8fHwxNzY3NjAzMDUzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "tags": ["React", "TypeScript", "Tailwind CSS"],
+      "link": "#"
+    },
+    {
+      "title": "Mobile Banking App",
+      "description": "Intuitive mobile-first banking application with real-time transaction tracking.",
+      "image": "https://images.unsplash.com/photo-1605108222700-0d605d9ebafe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBhcHAlMjBpbnRlcmZhY2V8ZW58MXx8fHwxNzY3NTUyMTc1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "tags": ["React Native", "Node.js", "MongoDB"],
+      "link": "#"
+    },
+    {
+      "title": "Developer Portfolio",
+      "description": "A sleek, modern portfolio website showcasing development projects and skills.",
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb2RpbmclMjBzY3JlZW58ZW58MXx8fHwxNzY3NTk3NzM5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "tags": ["Next.js", "Framer Motion", "CSS"],
+      "link": "#"
+    }
+  ]
+}
