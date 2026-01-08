@@ -1,5 +1,7 @@
 ---
-const { tag } = Astro.props
+const { technologie } = Astro.props
 ---
 
-<p class='rounded-xl border text-xs px-2 py-1 bg-gray-500'>{tag}</p>
+<p class=`rounded-xl border text-xs px-2 py-1 ${technologie.color}`>
+  {technologie.name}
+</p>
