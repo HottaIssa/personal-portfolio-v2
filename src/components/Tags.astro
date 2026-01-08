@@ -2,6 +2,8 @@
 const { technologie } = Astro.props
 ---
 
-<p class=`rounded-xl border text-xs px-2 py-1 ${technologie.color}`>
+<p
+  class=`rounded-xl border text-xs px-2 py-1 bg-sky-500/20 dark:bg-slate-700/20 border-sky-300/30 dark:border-slate-500/30`
+>
   {technologie.name}
 </p>

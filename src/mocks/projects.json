@@ -7,22 +7,22 @@
       "technologies": [
         {
           "name": "Java",
-          "color": "bg-[#ff2d20]"
+          "color": "text-[#ff2d20]"
         },
         {
           "name": "Spring Boot",
-          "color": "bg-[#00bc7d]"
+          "color": "text-[#00bc7d]"
         },
         {
           "name": "Spring Security",
-          "color": "bg-[#00bc7d]"
+          "color": "text-[#00bc7d]"
         },
         {
           "name": "MySQL",
-          "color": "bg-[#00bc7d]"
+          "color": "text-[#00bc7d]"
         }
       ],
-      "color": "bg-linear-to-r from-emerald-700 to-teal-700",
+
       "link": "https://github.com/HottaIssa/app-note-springboot"
     },
     {
@@ -32,18 +32,18 @@
       "technologies": [
         {
           "name": "Laravel",
-          "color": "bg-[#ff2d20]"
+          "color": "text-[#ff2d20]"
         },
         {
           "name": "PHP",
-          "color": "bg-[#007acc]"
+          "color": "text-[#007acc]"
         },
         {
           "name": "MySQL",
-          "color": "bg-[#00bc7d]"
+          "color": "text-[#00bc7d]"
         }
       ],
-      "color": "bg-linear-to-r from-cyan-600 to-sky-600",
+
       "link": "https://github.com/HottaIssa/api-blog"
     },
     {
@@ -53,18 +53,18 @@
       "technologies": [
         {
           "name": "Astro",
-          "color": "bg-[#007acc]"
+          "color": "text-[#007acc]"
         },
         {
           "name": "Tailwind CSS",
-          "color": "bg-[#38bdf8]"
+          "color": "text-[#38bdf8]"
         },
         {
           "name": "JavaScript",
-          "color": "bg-[#f7df1e]"
+          "color": "text-[#f7df1e]"
         }
       ],
-      "color": "bg-linear-to-r from-indigo-600 to-blue-700",
+
       "link": "https://github.com/HottaIssa/personal-portfolio-v2"
     }
   ]
