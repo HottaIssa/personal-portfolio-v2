@@ -1,0 +1,20 @@
+---
+import { Image } from 'astro:assets'
+import SectionInfo from '@components/SectionInfo.astro'
+import MyPhoto from '@assets/My_New_Photo.png'
+---
+
+<section
+  id='about-me'
+  class='flex flex-wrap sm:flex-nowrap justify-center gap-8 w-full lg:max-w-4xl mx-auto pb-16 scroll-m-20 container md:max-w-2xl pr-4'
+>
+  <SectionInfo
+    title='Sobre mi'
+    description='Cuento con experiencia en el diseño e implementación de servicios, APIs y lógica de negocio, deseando aplicar mis conocimientos en un entorno retador y dinámico. Mi enfoque es mi capacidad de aprendizaje, pensamiento analítico y trabajo en equipo, con motivación por aportar a proyectos tecnológicos y crecer profesionalmente en entornos de desarrollo.'
+  />
+  <Image
+    class='w-48 h-48 rounded-md -rotate-4 order-first sm:order-last outline-4 outline-slate-700'
+    src={MyPhoto}
+    alt=''
+  />
+</section>

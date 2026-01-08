@@ -2,8 +2,8 @@
   "data": [
     {
       "title": "App Note Backend",
-      "description": "Backend application for a note-taking app with user authentication using Spring Boot.",
-      "image": "https://images.unsplash.com/photo-1603985585179-3d71c35a537c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3ZWIlMjBkZXNpZ24lMjB3b3Jrc3BhY2V8ZW58MXx8fHwxNzY3NjAzMDUzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "description": "Desarrollo Backend para una aplicación de toma de notas con autenticación de usuarios utilizando Spring Boot.",
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb2RpbmclMjBzY3JlZW58ZW58MXx8fHwxNzY3NTk3NzM5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       "technologies": [
         {
           "name": "Java",
@@ -23,12 +23,12 @@
         }
       ],
       "color": "bg-linear-to-r from-emerald-700 to-teal-700",
-      "link": "#"
+      "link": "https://github.com/HottaIssa/app-note-springboot"
     },
     {
       "title": "Api Blog Laravel",
-      "description": "A RESTful API for a blogging platform built with Laravel, featuring user authentication and CRUD operations.",
-      "image": "https://images.unsplash.com/photo-1605108222700-0d605d9ebafe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBhcHAlMjBpbnRlcmZhY2V8ZW58MXx8fHwxNzY3NTUyMTc1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "description": "Una API RESTful para una plataforma de blogging construida con Laravel, que incluye autenticación de usuarios y operaciones CRUD.",
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb2RpbmclMjBzY3JlZW58ZW58MXx8fHwxNzY3NTk3NzM5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       "technologies": [
         {
           "name": "Laravel",
@@ -44,11 +44,11 @@
         }
       ],
       "color": "bg-linear-to-r from-cyan-600 to-sky-600",
-      "link": "#"
+      "link": "https://github.com/HottaIssa/api-blog"
     },
     {
       "title": "Developer Portfolio",
-      "description": "A sleek, modern portfolio website showcasing development projects and skills.",
+      "description": "Un sitio web de portafolio moderno y elegante que destaca proyectos de desarrollo y habilidades.",
       "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb2RpbmclMjBzY3JlZW58ZW58MXx8fHwxNzY3NTk3NzM5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       "technologies": [
         {
@@ -65,7 +65,7 @@
         }
       ],
       "color": "bg-linear-to-r from-indigo-600 to-blue-700",
-      "link": "#"
+      "link": "https://github.com/HottaIssa/personal-portfolio-v2"
     }
   ]
 }
