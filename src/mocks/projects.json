@@ -1,9 +1,9 @@
 {
   "data": [
     {
-      "title": "App Note Backend",
-      "description": "Desarrollo Backend para una aplicación de toma de notas con autenticación de usuarios utilizando Spring Boot.",
-      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb2RpbmclMjBzY3JlZW58ZW58MXx8fHwxNzY3NTk3NzM5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "title": "Task App",
+      "description": "Desarrollo Backend de una aplicación de tareas utilizando Spring Boot, Spring Security y PostgreSQL.",
+      "image": "https://www.sweetprocess.com/wp-content/uploads/2022/10/task-management-32-1.png",
       "technologies": [
         {
           "name": "Java",
@@ -18,17 +18,17 @@
           "color": "text-[#00bc7d]"
         },
         {
-          "name": "MySQL",
-          "color": "text-[#00bc7d]"
+          "name": "PostgreSQL",
+          "color": "text-[#336791]"
         }
       ],
 
-      "link": "https://github.com/HottaIssa/app-note-springboot"
+      "link": "https://github.com/HottaIssa/task-app-backend"
     },
     {
       "title": "Api Blog Laravel",
       "description": "Una API RESTful para una plataforma de blogging construida con Laravel, que incluye autenticación de usuarios y operaciones CRUD.",
-      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb2RpbmclMjBzY3JlZW58ZW58MXx8fHwxNzY3NTk3NzM5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "image": "https://images.unsplash.com/photo-1753715613373-90b1ea010731?q=80&w=1186&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "technologies": [
         {
           "name": "Laravel",
