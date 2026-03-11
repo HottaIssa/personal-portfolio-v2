@@ -47,25 +47,25 @@
       "link": "https://github.com/HottaIssa/api-blog"
     },
     {
-      "title": "Developer Portfolio",
-      "description": "Un sitio web de portafolio moderno y elegante que destaca proyectos de desarrollo y habilidades.",
+      "title": "Notes App",
+      "description": "Esta es una aplicación de notas completa creada con la pila MERN (MySQL, Express.js, React, Node.js). Permite a los usuarios registrarse, iniciar sesión de forma segura y administrar sus notas personales a través de una interfaz limpia e intuitiva.",
       "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb2RpbmclMjBzY3JlZW58ZW58MXx8fHwxNzY3NTk3NzM5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       "technologies": [
         {
-          "name": "Astro",
+          "name": "NodeJS",
           "color": "text-[#007acc]"
         },
         {
-          "name": "Tailwind CSS",
+          "name": "React",
           "color": "text-[#38bdf8]"
         },
         {
-          "name": "JavaScript",
+          "name": "MySQL",
           "color": "text-[#f7df1e]"
         }
       ],
 
-      "link": "https://github.com/HottaIssa/personal-portfolio-v2"
+      "link": "https://github.com/HottaIssa/mern-fullstack-notes-app"
     }
   ]
 }
